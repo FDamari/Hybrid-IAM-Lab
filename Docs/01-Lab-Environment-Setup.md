@@ -1,1 +1,20 @@
+# Lab Environment Setup
+- Build the virtualization environment for the Hybrid IAM Lab
 
+# Objectives
+- Install Hyper-V
+- Create virtual switch
+- Deploy Windows Server 2022
+- Deploy Windows 11
+- Configure networking
+- Verify VM communication
+
+# Lab Components
+- Hyper-V
+- Windows Server 2022 ISO
+- Windows 11 ISO
+
+
+
+# Notes
+Documentation and Screenshots will be updated as the environment is built.
