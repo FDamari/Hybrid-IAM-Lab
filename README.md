@@ -5,5 +5,8 @@ This project documents the design, implementation, and administration of a hybri
 - [1. Lab Environment Setup](Docs/01-Lab-Environment-Setup.md)
 
 # Screenshots
+- [Screenshots Folder](Screenshots)
 # Diagrams
+- [Diagrams Folder](Diagrams)
 # Powershell
+- [Powershell Folder](Powershell)
