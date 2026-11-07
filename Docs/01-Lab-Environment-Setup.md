@@ -16,5 +16,5 @@
 
 
 
-# Notes
-Documentation and Screenshots will be updated as the environment is built.
+# Notes - Updated as objectives are completed
+
