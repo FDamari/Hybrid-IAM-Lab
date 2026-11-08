@@ -16,5 +16,4 @@
 
 
 
-# Notes - Updated as objectives are completed
 
