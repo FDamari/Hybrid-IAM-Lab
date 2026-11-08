@@ -11,7 +11,7 @@
 
 # Lab Components
 - Hyper-V
-- Windows Server 2022 ISO
+- Windows Server 2025 ISO
 - Windows 11 ISO
 
 
