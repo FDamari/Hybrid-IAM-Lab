@@ -3,6 +3,7 @@ This project documents the design, implementation, and administration of a hybri
 
 # Docs
 - [1. Lab Environment Setup](Docs/01-Lab-Environment-Setup.md)
+- [2. Users & Groups AD](Docs/02-Users-And-Groups.md)
 
 # Screenshots
 - [Screenshots Folder](Screenshots)
