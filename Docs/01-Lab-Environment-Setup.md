@@ -1,4 +1,4 @@
-# Lab Environment Setup
+# 1.Lab Environment Setup
 - Build the virtualization environment for the Hybrid IAM Lab
 
 # Objectives
@@ -14,6 +14,7 @@
 - Windows Server 2025 ISO
 - Windows 11 ISO
 
-
+# Screenshots
+- [Screenshots Folder](Screenshots)
 
 
