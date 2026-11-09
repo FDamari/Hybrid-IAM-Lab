@@ -4,10 +4,14 @@
 * Create OU Structure
 * Create Security Groups
 * Create Test Users
+  - EmployeeID
+  - Org. Information
 * Delegate Permissions
   - RBAC and Password Reset
 * Delegate where new users and clients land
-* change account lockout & password requirement policies
+* Domain Security Policies
+  - Account Lockout Threshold & Duration Configured
+  - Password Policy Configured
 
 # Screenshots
 - [Screenshots Folder](Screenshots)
