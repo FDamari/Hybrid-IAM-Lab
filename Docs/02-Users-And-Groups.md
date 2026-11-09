@@ -6,6 +6,8 @@
 * Create Test Users
 * Delegate Permissions
   - RBAC and Password Reset
+* Delegate where new users and clients land
+* change account lockout & password requirement policies
 
 # Screenshots
 - [Screenshots Folder](Screenshots)
