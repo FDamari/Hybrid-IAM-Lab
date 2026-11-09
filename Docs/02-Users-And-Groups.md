@@ -1,4 +1,4 @@
-# Users and Groups
+# 2.Users and Groups
 * The Active Directory Environment
 # Objectives
 * Create OU Structure
@@ -6,3 +6,6 @@
 * Create Test Users
 * Delegate Permissions
   - RBAC and Password Reset
+
+# Screenshots
+- [Screenshots Folder](Screenshots)
