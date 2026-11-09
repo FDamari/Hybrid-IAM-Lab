@@ -4,7 +4,7 @@
 # Objectives
 - Install Hyper-V
 - Create virtual switch
-- Deploy Windows Server 2022
+- Deploy Windows Server 2025
 - Deploy Windows 11
 - Configure networking
 - Verify VM communication
