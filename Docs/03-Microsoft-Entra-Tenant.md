@@ -6,7 +6,7 @@
 * Configure and manage administrative units
   - I configured a "Florida" assigned restricted AU, so only those that are selected can be added under the pretense they are in the Florida region. They can also only be managed by someone with administrative rights to that unit
 * Evaluate effective permissions for Entra roles
-  - Created a non-admin helpdesk role added specific permissions to the scope of role (reading and updating licenses, basic properties, registered devices) without giving them outside scope permissions
+  - Created a non-admin helpdesk role added specific permissions that fit the scope of role (reading and updating licenses, basic properties, registered devices) without giving them outside scope permissions
 * Configure and manage domains in EntraID & Microsoft 365
   - Learned the process of adding custom domains to allow everything to be under one name
 * Configure tenant properties, user settings, group settings, and device settings
